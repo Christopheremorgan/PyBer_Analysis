@@ -11,7 +11,7 @@ Using images from the summary DataFrame and multiple-line chart, describe the di
 ![image_name](https://github.com/Christopheremorgan/PyBer_Analysis/blob/main/analysis/Pyber_Dataframe_Summary.png)
 
 
-![image_name](https://github.com/Christopheremorgan/PyBer_Analysis/blob/main/analysis/Pyber_Dataframe_Summary.png)
+![image_name](https://github.com/Christopheremorgan/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 ## Summary
 Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
